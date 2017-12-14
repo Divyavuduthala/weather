@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="display_textview" type="id">display_textview</item>
+    <item name="webview" type="id">webview</item>
+    <item name="WebView1" type="id">WebView1</item>
+    <item name="WebView" type="id">WebView</item>
+</resources>

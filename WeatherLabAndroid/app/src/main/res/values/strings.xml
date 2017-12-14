@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherLabAndroid</string>
+    <string name="CLICK">CLICK</string>
+    <string name="GRAPH">GRAPH</string>
+    <string name="TABLE">TABLE</string>
+
+
+</resources>
